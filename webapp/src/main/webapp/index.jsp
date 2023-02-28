@@ -1,6 +1,6 @@
 <h1>Hello Deva, Welcome to Tomcat!</h1>
 
-<h2>Interesting things to do for today, Ben!</h2>
+<h2>Interesting things to do for today, Deva!</h2>
 
  <ul>
   <li>Learn JavaScript</li>
